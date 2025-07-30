@@ -1,5 +1,3 @@
-# Jockey--Hack
-Just the Jokers rajasaab
 body {rajasaab
   margin: 0;
 }
@@ -11,7 +9,7 @@ body {rajasaab
   max-height:500px;
   margin-left: auto;
   margin-right: auto;
-}Jockey--Hack
+}
 
 .keys {
   font-family: 'Lato', sans-serif;
